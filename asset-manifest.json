@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/power-of-food/static/css/main.97b4ebf3.css",
+    "main.js": "/power-of-food/static/js/main.f5c89f44.js",
+    "static/media/food2.jpg": "/power-of-food/static/media/food2.a95a7c16283e571df83e.jpg",
+    "static/media/food1.jpg": "/power-of-food/static/media/food1.b609305e1557c9b6a24d.jpg",
+    "static/media/flower.png": "/power-of-food/static/media/flower.0f4ec3249993211196a2.png",
+    "index.html": "/power-of-food/index.html",
+    "main.97b4ebf3.css.map": "/power-of-food/static/css/main.97b4ebf3.css.map",
+    "main.f5c89f44.js.map": "/power-of-food/static/js/main.f5c89f44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97b4ebf3.css",
+    "static/js/main.f5c89f44.js"
+  ]
+}
